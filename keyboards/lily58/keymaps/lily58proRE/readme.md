@@ -1,4 +1,4 @@
-# Keymap build for Lily58 Pro RE from Next Keyboard Club (https://nextkeyboard.club/product/lily58-pro-re-mx-hotswap-keyboard/)
+# Keymap build for [Lily58 Pro RE from Next Keyboard Club](https://nextkeyboard.club/product/lily58-pro-re-mx-hotswap-keyboard/)
 <img src="https://i0.wp.com/nextkeyboard.club/wp-content/uploads/2021/09/img_6204-scaled.jpeg?fit=2560%2C2560&ssl=1" width="400">
 
 A customized lily58l keymap with rotary encoder support.
