@@ -5,7 +5,7 @@ A customized lily58l keymap with rotary encoder support.
 
 Left encoder: mouse wheel up/down, volume up/down track on RAISE layer  
 Right encoder: cursor down/up, right/left on LOWER layer
-Added custom logo, you may customize it by updating `lib/glcdfont_latest.c` using https://helixfonteditor.netlify.app/
+Added custom logo, you may customize it by updating the glcdfont file defined as `OLED_FONT_H` in `../../lily58/config.h` using https://helixfonteditor.netlify.app/
 
 * Hardware Supported: # Keymap build for Lily58 Pro RE from Next Keyboard Club (https://nextkeyboard.club/product/lily58-pro-re-mx-hotswap-keyboard/)
 
